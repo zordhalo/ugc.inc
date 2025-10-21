@@ -1,6 +1,5 @@
 # ugc.inc
-<p align="center">
-	<img src="./fixedLogo.png" alt="ugc.inc logo" width="240" />
-</p>
+
+![ugc.inc logo](./fixedLogo.png)
 
 Repo for Katie
